@@ -7,3 +7,5 @@ first.
 second.
 git checkout -- <file>..." to discard changes in working directory)
 
+git test!
+
