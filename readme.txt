@@ -5,3 +5,5 @@ Git has a mutable index called stage.
 Git tracks changes.
 first.
 second.
+git checkout -- <file>..." to discard changes in working directory)
+
