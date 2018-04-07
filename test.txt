@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my boss is wisdom!
+=======
+my boss is stupid!
+>>>>>>> e711d3c12ac710a119172f30f6779abea48865cb
